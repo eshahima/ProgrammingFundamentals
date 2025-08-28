@@ -55,3 +55,9 @@ This repository contains my Python projects for my **Programming Fundamentals** 
 - Working with `datetime`  
 
 ---
+## 📬 Contact  
+Hi again, I’m **Esha Himagirish** 👋  
+If you’d like to connect, collaborate, or learn more about my work:  
+
+- **LinkedIn**: [Esha Himagirish](www.linkedin.com/in/esha-himagirish-ab7072327)  
+- **GitHub**: [esha hima](https://github.com/eshahima)  
