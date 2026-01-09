@@ -3,6 +3,15 @@
 This repository contains my Python projects for my **Programming Fundamentals** college course. Each file demonstrates core programming concepts such as variables, arrays, loops, conditionals, functions, and classes.  
 
 ---
+## 🚀 Featured Project: Predictive Health Tracker (final.py)
+### This is the most advanced project in the repository, moving beyond procedural scripts to a fully Object-Oriented solution for health forecasting.
+
+### Key OOP Implementation Details:
+- Class Encapsulation: I designed a custom User class to bundle data (cycle length, history) and behaviors (prediction logic) into a single, manageable object.
+- Method Logic: The class includes specialized methods like predictperiod() and predictovul() that perform  calculations using Python's datetime and timedelta libraries.
+- State Management: By using an __init__ constructor, the program initializes unique user instances, allowing for persistent storage of period and ovulation history within internal arrays.
+- Predictive Modeling: The script utilizes class-based logic to transform raw historical data into future-dated forecasts, demonstrating a transition from basic coding to functional software engineering.
+---
 
 ## 📂 Project Files  
 
